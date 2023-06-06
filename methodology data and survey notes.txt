@@ -1,0 +1,8 @@
+methodology: research on how python can be used to predict markets 
+and pick 4 types of market based on the last 4 years 
+machine learning applications with python
+
+survey sections:
+demographics
+knowlegde of machine learning
+prototype

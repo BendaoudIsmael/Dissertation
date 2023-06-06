@@ -1,0 +1,28 @@
+Viva notes: take snippites
+
+Title name, course, superviser name
+
+split like the thesis (presentation outline)
+
+Resaearch background
+
+hypotheis
+
+research questions
+
+research obecitves
+
+lit rev (2 slides) (get to papers from similar papers to yours) - tell you had this much papers and grab 2 that are similar or differences -> (what did they do different in methodology)
+
+Research Metholodolgy (online survey) - (Experiment)
+
+ - Online Survey (how much participants and how it was splitted)
+ - Expierment (check phases)
+ 
+Analysis of Results and dissucsion (1 example of chi-sqaures, t-test and anova)
+
+slide on prototype results
+
+anaylsis of results and discussion = compariosn with literature review
+
+
