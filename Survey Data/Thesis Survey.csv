@@ -1,0 +1,17 @@
+Timestamp,Age,Gender,Occupation,Level of Education,Are you familiar with machine learning?,Have you used machine learning before?,"If you used ML before, what kind of ML did you use?","In your opinion, which sectors can machine learning be used in?",In your opinion can markets be predictive?,Based on the prototype. Is machine learning more efficient than other methods based on forecasting markets?,Do you think that the algorithm used is a greater option than other machine learning methods/techniques?,How influential is the companies repuation on your decision to forecast?,How important is it to have the necessary information and market news.,Has the practial session been intresting to you?
+2023/03/14 1:44:44 PM GMT+2,4,2,3,2,No,No,1,"3,4,5",3,3,2,2,2,3
+2023/03/14 3:12:25 PM GMT+2,2,2,1,3,No,No,1,1,4,4,4,4,4,4
+2023/03/14 3:24:44 PM GMT+2,2,1,2,2,Yes,Yes,3,6,4,4,4,5,4,5
+2023/03/22 7:52:58 PM GMT+2,2,1,3,1,No,No,1,6,2,3,4,4,4,4
+2023/03/27 7:28:48 AM GMT+2,6,1,3,2,Yes,Yes,"2,3","1,2,3,4,5,6",4,4,3,4,4,5
+2023/03/27 7:43:48 AM GMT+2,3,1,3,2,Yes,Yes,2,"1,3,4,5",4,4,3,4,5,5
+2023/03/27 7:49:38 AM GMT+2,6,2,3,3,Yes,Yes,"2,3,4,5","1,2,3,4,5,6",3,3,4,5,5,5
+2023/03/27 8:25:55 AM GMT+2,3,1,3,2,Yes,No,1,"1,2,3,4,5,6",4,5,4,4,5,5
+2023/03/27 8:32:23 AM GMT+2,5,1,3,3,Yes,Yes,4,"1,2,3,4,5",4,4,4,4,4,4
+2023/03/27 11:03:33 AM GMT+2,1,2,4,1,Yes,Yes,2,"1,3,5",3,3,4,4,5,4
+2023/03/27 12:26:23 PM GMT+2,2,1,1,1,Yes,No,1,"3,4,5",2,3,4,4,4,2
+2023/03/27 2:59:59 PM GMT+2,2,1,3,2,Yes,Yes,2,"1,2,3,5,6",5,4,5,5,5,5
+2023/03/28 2:29:08 PM GMT+2,1,1,1,1,Yes,Yes,2,"1,2,3,4,5,6",4,4,4,4,5,5
+2023/03/29 1:50:36 PM GMT+2,1,1,1,2,Yes,Yes,"2,3,4,5","1,2,3,4,5,6",2,4,4,2,4,3
+2023/03/30 9:08:13 AM GMT+2,2,1,1,2,Yes,Yes,"2,3,4,5","1,2,3,4,5,6",4,5,4,4,4,5
+2023/04/06 7:57:16 AM GMT+2,2,1,1,2,Yes,No,1,"2,3,5",3,4,3,4,4,4
